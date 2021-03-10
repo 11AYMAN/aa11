@@ -28,4 +28,4 @@ we need need to take particular care it may not be fair to collect information f
 Principle 5 - Storage and security of personal information
 1-what is importan thing about Storage and security ?
 importan thing is must ensure there are safeguards in place that are reasonable in the circumstances to prevent loss, misuse or disclosure of personal information.
-2-
+2- 
